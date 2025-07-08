@@ -1,0 +1,31 @@
+# Crunch Predictions 📊🍪
+
+This project builds a machine learning model to predict "crunch" outcomes (classification or regression, depending on the data), using structured input features.
+
+## 📁 Files Included
+- `crunch_predictions.ipynb`: Contains full code for data preprocessing, EDA, model building, and evaluation.
+
+## 🚀 Features
+- Data cleaning and transformation
+- Exploratory Data Analysis (EDA)
+- Machine learning model training and testing
+- Accuracy and metric evaluation
+
+## 🔧 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
+
+## 🧠 Outcome
+Built a prediction model that can classify or forecast the crunch-level (depending on dataset target), useful for business insights or industrial applications.
+
+## 🙋‍♂️ Role
+- Sole developer: Handled data processing, ML modeling, and results visualization.
+
+---
+
+### 📸 Optional
+If you want to add an image or chart preview, use this after uploading an image file:
+```markdown
+![Crunch Model Output](crunch_output.png)
